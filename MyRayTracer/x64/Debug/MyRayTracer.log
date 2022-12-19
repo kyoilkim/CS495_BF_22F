@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\kyoil\source\repos\MyRayTracer\MyRayTracer\main.cpp(99,96): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\kyoil\source\repos\MyRayTracer\MyRayTracer\main.cpp(99,75): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\kyoil\source\repos\MyRayTracer\MyRayTracer\main.cpp(99,54): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+  MyRayTracer.vcxproj -> C:\Users\kyoil\source\repos\MyRayTracer\x64\Debug\MyRayTracer.exe
